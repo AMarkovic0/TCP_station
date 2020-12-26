@@ -17,7 +17,7 @@ which includes ESP8266 (nodemcu) GPIO firmware, station server + gpio communicat
 
 and simulate real device.
 
-More advanced examples could be expected soon.
+More advanced examples can be expected soon.
 
 
 Tree:
