@@ -1,7 +1,7 @@
 # TCP_home_station
 TCP station for home automation.
 
-Station for home automation. TCP server designed for control of independent home sensors and actuators.
+Station for home automation. TCP server designed for control of stand alone home sensors and actuators.
 
 Every device should have standardized firmware with ability to perform at least simple operations regarding its purpose. 
 
