@@ -1,4 +1,4 @@
-# TCP_home_station
+# TCP_station
 TCP station for home automation.
 
 Station for home automation. TCP server designed for control of stand alone home sensors and actuators.
